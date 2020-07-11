@@ -1,5 +1,8 @@
 /**
-* Template Name: yk
+* Template Name: Vesperr - v2.1.0
+* Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
 */
 
 /*--------------------------------------------------------------
@@ -488,7 +491,7 @@ section {
   padding-bottom: 30px;
 }
 
-.section-title h3 {
+.section-title h4 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
@@ -496,7 +499,7 @@ section {
   color: #222222;
 }
 
-.section-title h3::before, .section-title h3::after {
+.section-title h4::before, .section-title h4::after {
   content: '';
   width: 50px;
   height: 2px;
@@ -504,11 +507,11 @@ section {
   display: inline-block;
 }
 
-.section-title h3::before {
+.section-title h4::before {
   margin: 0 15px 10px 0;
 }
 
-.section-title h3::after {
+.section-title h4::after {
   margin: 0 0 10px 15px;
 }
 
@@ -999,7 +1002,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #3498db;
+  background: #8e45ad;
 }
 
 .portfolio #portfolio-flters li:last-child {
